@@ -1,7 +1,7 @@
 class KnightRoll {
 	constructor(game) {
 		this.game = game;
-		this.animator = new Animator(ASSET_MANAGER.getAsset("./sprites/Roll.png"), 0, 0, 120, 100, 12, 0.05);
+		this.animator = new Animator(ASSET_MANAGER.getAsset("./sprites/knight/Roll.png"), 0, 0, 120, 100, 12, 0.05);
 
 	};
 

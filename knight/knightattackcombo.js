@@ -1,7 +1,7 @@
 class KnightAttackCombo {
 	constructor(game) {
 		this.game = game;
-		this.animator = new Animator(ASSET_MANAGER.getAsset("./sprites/AttackCombo.png"), 0, 0, 95, 100, 10, 0.1);
+		this.animator = new Animator(ASSET_MANAGER.getAsset("./sprites/knight/AttackCombo.png"), 0, 0, 95, 100, 10, 0.1);
 
 	};
 

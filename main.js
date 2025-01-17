@@ -2,17 +2,17 @@ const gameEngine = new GameEngine();
 
 const ASSET_MANAGER = new AssetManager();
 
-ASSET_MANAGER.queueDownload("./sprites/Attack2.png")
-ASSET_MANAGER.queueDownload("./sprites/AttackCombo.png")
-ASSET_MANAGER.queueDownload("./sprites/Swordwave.png")
-ASSET_MANAGER.queueDownload("./sprites/Crouch.png")
-ASSET_MANAGER.queueDownload("./sprites/CrouchWalk.png")
-ASSET_MANAGER.queueDownload("./sprites/Death.png")
-ASSET_MANAGER.queueDownload("./sprites/Fall.png")
-ASSET_MANAGER.queueDownload("./sprites/Idle.png")
-ASSET_MANAGER.queueDownload("./sprites/Jump.png")
-ASSET_MANAGER.queueDownload("./sprites/Roll.png")
-ASSET_MANAGER.queueDownload("./sprites/Run.png")
+ASSET_MANAGER.queueDownload("./sprites/knight/Attack2.png")
+ASSET_MANAGER.queueDownload("./sprites/knight/AttackCombo.png")
+ASSET_MANAGER.queueDownload("./sprites/knight/Swordwave.png")
+ASSET_MANAGER.queueDownload("./sprites/knight/Crouch.png")
+ASSET_MANAGER.queueDownload("./sprites/knight/CrouchWalk.png")
+ASSET_MANAGER.queueDownload("./sprites/knight/Death.png")
+ASSET_MANAGER.queueDownload("./sprites/knight/Fall.png")
+ASSET_MANAGER.queueDownload("./sprites/knight/Idle.png")
+ASSET_MANAGER.queueDownload("./sprites/knight/Jump.png")
+ASSET_MANAGER.queueDownload("./sprites/knight/Roll.png")
+ASSET_MANAGER.queueDownload("./sprites/knight/Run.png")
 
 
 
